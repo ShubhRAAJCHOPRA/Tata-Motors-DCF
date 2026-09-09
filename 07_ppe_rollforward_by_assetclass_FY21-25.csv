@@ -1,0 +1,57 @@
+Asset Class,Line Item,FY2025,FY2024,FY2023,FY2022,FY2021
+Land,Cost - Opening,"7,640","7,757","7,457","7,513.05","7,456.81 (FY22 opening not in FY21 report)"
+Land,Cost - Additions,(16),-,-,12.26,-
+Land,Cost - Disposals/Adjustments/Held for sale,(216),(127),(96),(21.19),-
+Land,Cost - Currency translation,102,70,64,(47.31),-
+Land,Cost - Closing,"7,510","7,641","7,757","7,456.81","7,456.81 (matches FY22 report)"
+Land,Accumulated depreciation - Closing,-,72,-,-,-
+Land,Net carrying amount,"7,510","7,569","7,757","7,456.81",-
+Buildings,Cost - Opening,"30,832","29,571","28,644","28,534.98",-
+Buildings,Cost - Additions,"2,388","1,138",721,599.05,-
+Buildings,Cost - Disposals/Adjustments/Held for sale/Impairment,(231),(551),(139),(139.10),-
+Buildings,Cost - Currency translation,"1,254",674,697,(350.85),-
+Buildings,Cost - Closing,"34,251","30,832","29,571","28,644.08",-
+Buildings,Accumulated depreciation - Opening,"11,028","9,562","8,111","6,992.50",-
+Buildings,Depreciation for the year,"1,532","1,468","1,300","1,306.19",-
+Buildings,Accumulated depreciation - Adjustments,(122),(230),(52),(80.01),-
+Buildings,Currency translation (accum. dep.),448,220,242,(107.44),-
+Buildings,Accumulated depreciation - Closing,"12,875","11,028","9,562","8,111.24",-
+Buildings,Net carrying amount,"21,376","19,804","20,009","20,532.84",-
+Plant and equipment,Cost - Opening,"1,50,271","1,52,207","1,47,025","1,37,463.16",-
+Plant and equipment,Cost - Additions,"6,046","7,222","5,266","12,467.83",-
+Plant and equipment,Cost - Disposals/Adjustments,"(8,289)","(12,703)","(2,875)","(1,230.33)",-
+Plant and equipment,Cost - Currency translation,"5,595","3,545","2,781","(1,675.75)",-
+Plant and equipment,Cost - Closing,"1,53,944","1,50,271","1,52,207","1,47,024.91",-
+Plant and equipment,Accumulated depreciation - Opening,"1,06,647","1,05,420","96,074","89,067.35",-
+Plant and equipment,Depreciation for the year,"9,227","11,127","10,115","9,354.53",-
+Plant and equipment,Accumulated depreciation - Disposals/Adjustments,"(7,730)","(12,450)","(2,706)","(1,200.32)",-
+Plant and equipment,Currency translation (accum. dep.),"4,177","2,549","1,996","(1,120.95)",-
+Plant and equipment,Accumulated depreciation - Closing,"1,12,321","1,06,646","1,05,420","96,074.21",-
+Plant and equipment,Net carrying amount,"41,623","43,625","46,787","50,950.70",-
+Vehicles (owned),Cost - Opening,"1,890","1,909","1,816","1,814.99",-
+Vehicles (owned),Cost - Additions,81,63,73,121.10,-
+Vehicles (owned),Cost - Disposals/Adjustments,(150),(160),(19),(74.50),-
+Vehicles (owned),Cost - Currency translation,70,42,40,(45.89),-
+Vehicles (owned),Cost - Closing,"1,891","1,856","1,909","1,815.70",-
+Vehicles (owned),Net carrying amount,516,527,568,580.19,-
+Computers,Cost - Closing,371,356,372,411.18,-
+Computers,Net carrying amount,106,106,92,116.89,-
+Furniture and fixtures,Cost - Closing,"3,564","3,426","3,309","2,933.15",-
+Furniture and fixtures,Net carrying amount,"1,023","1,117","1,094",978.89,-
+Heritage Assets,Cost - Closing,273,263,245,301.66,-
+Heritage Assets,Net carrying amount,99,91,78,134.57,-
+Given on lease - Land,Net carrying amount,70,67,67,21.58,-
+Given on lease - Buildings,Net carrying amount,96,101,103,32.34,-
+Given on lease - Vehicles,Net carrying amount,116,118,84,94.28,-
+Given on lease - Plant and equipment,Net carrying amount,1,1,2,1.04,-
+TOTAL PPE,Cost - Opening,"1,94,992","1,95,678","1,88,792","1,79,171.53","1,62,571.95"
+TOTAL PPE,Cost - Additions (net of reclass/acquisitions),"8,786 (+22 reclass +307 acquisition)","8,835","6,448","13,487.21","8,553.95"
+TOTAL PPE,Cost - Disposal/Adjustments/Held for sale,"(9,144)","(13,918)","(3,838)","(1,715.03)",(982.41)
+TOTAL PPE,Cost - Currency translation,"7,145","4,407","3,649","(2,151.75)","9,027.35"
+TOTAL PPE,Cost - Closing,"2,02,108","1,94,992","1,95,678","1,88,791.96","1,79,171.53"
+TOTAL PPE,Accumulated depreciation - Opening,"1,21,866","1,19,037","1,07,892","99,531.48","84,689.12"
+TOTAL PPE,Depreciation for the year,"11,203","13,060 (13,048 per FY25 cross-check)","11,799","11,068.12","10,872.96"
+TOTAL PPE,Accumulated depreciation - Disposal/Adjustments/held for sale/impairment,"(8,268)","(13,081)","(2,981)","(1,506.68)",(538.01)
+TOTAL PPE,Currency translation (accum. dep.),"4,771","2,852","2,327","(1,201.09)","5,038.02"
+TOTAL PPE,Accumulated depreciation - Closing,"1,29,572","1,21,868 (1,21,866 FY25 report)","1,19,037","1,07,891.83","99,531.48"
+TOTAL PPE,Net carrying amount,"72,536","73,125","76,641","80,900.13","79,640.05"
